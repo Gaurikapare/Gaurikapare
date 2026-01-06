@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurikapare" alt="gaurikapare" /></a> </p>
 
-- 🔭 I’m currently working on **working on travel planner using graphs**
+- 🔭 I’m currently working on **Saas Copilot application**
 
-- 🌱 I’m currently learning **machine learning,python libraries(pandas)**
+- 🌱 I’m currently learning **machine learning,python libraries**
 
 - 👯 I’m looking to collaborate on **....**
 
