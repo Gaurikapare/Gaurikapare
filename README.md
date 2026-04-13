@@ -1,41 +1,167 @@
-<h1 align="center">Hi 👋, I'm Gauri Kapare</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+# Gauri Kapare
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurikapare&label=Profile%20views&color=0e75b6&style=flat" alt="gaurikapare" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurikapare" alt="" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Gauri%20Kapare&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-- 🔭 I’m currently working on **Saas Copilot application**
+### B.Tech Student • Information Security • Data Science Enthusiast
 
-- 🌱 I’m currently learning **machine learning,python libraries**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Cloud+Computing+%26+Information+Security+Student;Learning+Data+Science+%26+Machine+Learning;Building+Projects+with+Python%2C+AWS%2C+Docker+%26+SQL;Always+Exploring+New+Technologies" />
 
-- 👯 I’m looking to collaborate on **....**
+</div>
 
-- 🤝 I’m looking for help with **improving machine learning model experience**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+## 👩‍💻 About Me
 
-- 📝 I regularly write articles on [.....](.....)
+```yaml
+name: Gauri Kapare
+education: B.Tech in Information Security and Data Science
+career_goal: Become a Data Engineer
 
-- 💬 Ask me about **data science,SQL,DSA,Python**
+interests:
+  - Data Science
+  - Machine Learning
+  - PowerBI
+  - Artifical Intelligence
+  - SQL,NOSQL
+  - Python Development
 
-- 📫 How to reach me **gaurikapare4420@gmail.com**
+currently_learning:
+  - Data Science using Pandas
+  - AWS Cloud Services
+  - Docker and GitHub
+  - SQL Query Optimization
+  - Networking and Cyber Security
+```
 
-- 📄 Know about my experiences [.....](.....)
+---
 
-- ⚡ Fun fact **I love solving puzzles and automating tasks.**
+## 🚀 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gauri kapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri kapare" height="30" width="40" /></a>
-<a href="https://kaggle.com/gauri kapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gauri kapare" height="30" width="40" /></a>
-<a href="https://instagram.com/gauriii_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauriii_44" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gauri kapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gauri kapare" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gauri kapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauri kapare" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gauri kapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauri kapare" height="30" width="40" /></a>
-<a href="https://discord.gg/gauri kapare(08564)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gauri kapare(08564)" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://skillicons.dev/icons?i=python,aws,docker,mysql,git,github,vscode,linux,anaconda,pandas" />
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" />
+
+</div>
+
+---
+
+## 📚 Currently Working On
+
+* 📊 Building Data Science projects using Pandas and Python
+* ☁️ Learning AWS services like EC2, S3, and IAM
+* 🗄️ Practicing SQL queries, joins, and database optimization
+* 🐳 Exploring Docker and DevOps concepts
+* 🔐 Working on networking and cybersecurity practicals
+* 💻 Creating GitHub projects and improving coding skills
+
+---
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science Project
+
+* Data cleaning and preprocessing using Pandas
+* Data visualization and analysis
+* Python + Pandas + Matplotlib
+* Creating insights from real-world datasets
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ AWS Cloud Project
+
+* Deploying applications on AWS
+* Learning EC2, S3, and IAM
+* AWS + Linux + GitHub
+* Understanding cloud security concepts
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ SQL Database Project
+
+* Created a MySQL database with multiple tables
+* Practiced joins, subqueries, and optimization
+* Used MySQL Workbench for project development
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Networking & Security Project
+
+* Wireless networking and security protocols
+* Network cable creation and practical implementation
+* Cloud and cyber security fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> Replace `YOUR_USERNAME` with your actual GitHub username.
+
+---
+
+## 🏆 Goals for 2026
+
+* 🚀 Build strong skills in Data Science and Cloud Computing
+* 🏆 Participate in hackathons and internships
+* 📚 Complete advanced projects in AWS, SQL, and Machine Learning
+* 💡 Improve coding, communication, and technical skills
+* 🌟 Create a strong GitHub profile and portfolio
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+My+Profile!;Keep+Learning+Keep+Growing+🚀" />
+
+</div>
