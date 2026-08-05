@@ -30,7 +30,7 @@ interests:
 currently_learning:
   - Data Science using Pandas
   - AWS Cloud Services
-  - Docker and GitHub
+  - Agentic AI,Langchain
   - SQL Query Optimization
   - Networking and Cyber Security
 ```
